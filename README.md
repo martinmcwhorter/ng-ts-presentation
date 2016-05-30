@@ -10,3 +10,11 @@ Repository for Angular Dublin Meetup talk on using TypeScript with AngularJS 1.x
 ```npm isntall```
 
 ```npm start```
+
+On a Mac you may need to run npm install as root. As well, the `postinstall` task might fail on Mac because of permissions.
+
+If this is the case do the following:
+
+```sudo npm install typings -g```
+
+```typings install```
