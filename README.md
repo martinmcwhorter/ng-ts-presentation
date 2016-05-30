@@ -17,4 +17,4 @@ If this is the case do the following:
 
 ```sudo npm install typings -g```
 
-```typings install```
+```sudo typings install```
